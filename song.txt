@@ -5,3 +5,6 @@ on this their chosen battle field
 and when we commit
 we realize that git
 is quite a real friend indeed
+
+after pull we should push immediately
+in order not to forget how to deal with git completely
